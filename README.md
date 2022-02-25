@@ -1,4 +1,4 @@
-# Tableau data analysis and visualization projects
+# Tableau - Data Analysis and Visualization Projects
 
 ### 1. Story - UK fashion retailer revenue, profits, and sales forecast.
 
